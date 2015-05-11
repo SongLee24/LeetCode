@@ -1,6 +1,6 @@
 ﻿#LeetCode
 
-[LeetCode](https://leetcode.com/problemset/algorithms/)答案源代码，已更新至第 $ 208 $ 题……
+[LeetCode](https://leetcode.com/problemset/algorithms/)答案源代码，已更新至第 208 题……
 
 #解题报告
 
